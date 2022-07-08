@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/devGustavoR/c6a9fe6ab4d683170a723b0727600b65/raw/2a7b345f08e35fd1908d8811f293292f914294b2/githubcard.svg"/>
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/devGustavoR/3dbeaf83161c7b594d7460860480b309/raw/f04b1d22b9e71916c96074472c7b8b3ba20e8187/githubcard2.svg"/>
 
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Gustavo </h1>
 
