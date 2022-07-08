@@ -8,6 +8,8 @@
 
 - 🔷 Currently learning Go
 
+- ⚡Fun fact in the gaming world, I'm known as Wuors
+
 <br><br>
 
 ## 🛠 &nbsp;Tech Stack
@@ -20,6 +22,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)&nbsp;
 
 <br><br>
 
@@ -30,6 +33,8 @@
   <img height="180px"src="https://github-readme-stats.vercel.app/api?username=devGustavoR&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="140px"src="https://github-readme-stats.vercel.app/api/top-langs/?username=devGustavoR&layout=compact&theme=midnight-purple"/>
 </div>
+  
+ ## 🔩 &nbsp;GitHub Contributions
 
 ![Snake animation](https://github.com/devGustavoR/devGustavoR/blob/output/github-contribution-grid-snake.svg)
  
