@@ -6,7 +6,7 @@
 
 - 👨🏾‍💻 All of my project are available at [devgustavor.dev](https://devgustavor.github.io)
 
-- 🔷 Currently learning Go
+- 🔷 Currently learning UX/UI
 
 - ⚡Fun fact in the gaming world, I'm known as Wuors
 
