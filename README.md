@@ -7,6 +7,8 @@
 - 👨🏾‍💻 All of my project are available at [devgustavor.dev](https://devgustavor.github.io)
 
  - 🔷 Currently learning Python
+ 
+ - 🎻When I'm not coding, you can often find me lost in the world of music, playing the violin and creating beautiful melodies.
 
 - ⚡Fun fact in the gaming world, I'm known as Wuors
 
