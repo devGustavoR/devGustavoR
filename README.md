@@ -6,7 +6,7 @@
 
 - 👨🏾‍💻 All of my project are available at [devgustavor.dev](https://devgustavor.github.io)
 
- - 🔷 Currently learning Angular and AWS Cloud
+ - 🔷 Currently learning Angular
  
  - 🎻When I'm not coding, you can often find me lost in the world of music, playing the violin and creating beautiful melodies.
 
