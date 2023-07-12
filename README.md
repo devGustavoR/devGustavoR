@@ -6,8 +6,8 @@
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=devgustavor&bg_color=0d1117&color=ffffff&line=ff8c00&point=ffffff&hide_border=true)
 
 <div align="center">
-<img width="51%" height="200px" src="https://github-readme-stats.vercel.app/api?username=devgustavor&theme=dark&hide_border=true&include_all_commits=false&count_private=false">
-<img width="40%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devgustavor&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact">
+<img width="51%" height="200px" src="https://github-readme-stats.vercel.app/api?username=devgustavor&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false">
+<img width="40%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devgustavor&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact">
 
 </div>
 
