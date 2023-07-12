@@ -1,12 +1,12 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/devGustavoR/3dbeaf83161c7b594d7460860480b309/raw/f04b1d22b9e71916c96074472c7b8b3ba20e8187/githubcard2.svg"/>
+<img align="right" height="300em" margin-top="10px" src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif"/>
 
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Gustavo </h1>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Gustavo 👋 </h1>
 
 - 🤖 Front-end developer
 
 - 👨🏾‍💻 All of my project are available at [devgustavor.dev](https://devgustavor.github.io)
 
- - 🔷 Currently learning Angular
+ - 🔷 Improving knowledge in C#
  
  - 🎻When I'm not coding, you can often find me lost in the world of music, playing the violin and creating beautiful melodies.
 
