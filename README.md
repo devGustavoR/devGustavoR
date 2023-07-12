@@ -1,4 +1,4 @@
-<img align="right" height="300em" margin-top="10px" src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif"/>
+<img align="right" height="300em" margin-top="10px" margin-left="5px" src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif"/>
 
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Gustavo 👋 </h1>
 
