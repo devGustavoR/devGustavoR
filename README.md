@@ -69,6 +69,7 @@
 <p align="left">
  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+ <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/XD.svg" alt="xd" width="40" height="40"/>
 </p>
  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&pause=1000&color=FF8C00&center=true&vCenter=true&repeat=false&width=1000&lines=My+currently+primary+projects+%E2%AC%87%EF%B8%8F)](https://git.io/typing-svg)
