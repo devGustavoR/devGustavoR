@@ -29,47 +29,47 @@
 
 ### 👉 Programming languages
 <p align="left">
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+ <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C.svg" alt="c" width="40" height="40"/>
+ <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CS.svg" alt="csharp" width="40" height="40"/>
+ <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg" alt="cplusplus" width="40" height="40"/>
+ <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" alt="java" width="40" height="40"/>
+ <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PHP-Dark.svg" alt="php" width="40" height="40"/>
 </p>
 
 
 ### 👉 Frontend Development
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" alt="html5" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" alt="css3" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" alt="javascript" width="40" height="40"/>
+ <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" alt="react" width="40" height="40"/>
 </p>
 
 ### 👉Backend Development
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg" alt="nodejs" width="40" height="40"/>
 </p>
 
 ### 👉Mobile App Development
 <p align="left">
-<img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" alt="reactnative" width="40" height="40"/>
 </p> 
 
 ### 👉Database
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg" alt="mysql" width="40" height="40"/>
 </p> 
 
 ### 👉Backend as a Service(BaaS)
 <p align="left">
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Firebase-Dark.svg" alt="firebase" width="40" height="40"/>
 </p> 
 
 ### 👉Software
 <p align="left">
- <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
- <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/XD.svg" alt="xd" width="40" height="40"/>
+ <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg" alt="figma" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Postman.svg" alt="postman" width="40" height="40"/>
+ <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/XD.svg" alt="xd" width="40" height="40"/>
 </p>
  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&pause=1000&color=FF8C00&center=true&vCenter=true&repeat=false&width=1000&lines=My+currently+primary+projects+%E2%AC%87%EF%B8%8F)](https://git.io/typing-svg)
