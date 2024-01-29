@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&pause=1000&color=FF8C00&center=true&vCenter=true&width=1000&lines=Hello%2C+My+Name+is+Gustavo+Ribeiro+%F0%9F%91%8B+;I+am+20+years+old;I+have+a+technical+degree+in+software+Development;Welcome+%F0%9F%98%84+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&pause=1000&color=d00000&center=true&vCenter=true&width=1000&lines=Hello%2C+My+Name+is+Gustavo+Ribeiro+%F0%9F%91%8B+;I+am+20+years+old;I+have+a+technical+degree+in+software+Development;Welcome+%F0%9F%98%84+)](https://git.io/typing-svg)
 
 <p align="center">"Imagination is more important than knowledge. For knowledge is limited, whereas imagination embraces the entire world, stimulating progress, giving birth to evolution." - Albert Einstein</p>
 
