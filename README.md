@@ -72,4 +72,4 @@
  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/XD.svg" alt="xd" width="40" height="40"/>
 </p>
  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&pause=1000&color=1d44b8&center=true&vCenter=true&repeat=false&width=1000&lines=My+currently+primary+projects+%E2%AC%87%EF%B8%8F)](https://git.io/typing-svg)
+
