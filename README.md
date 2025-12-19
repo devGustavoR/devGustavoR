@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=800&size=25&pause=1200&color=EA2A33&center=true&vCenter=true&width=1000&lines=Gustavo+Ribeiro;Backend+Engineer;Especialista+em+NestJS+e+Docker;Arquiteturas+Escaláveis+e+Alta+Disponibilidade" alt="Typing SVG" />
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=800&size=25&pause=1200&color=EA2A33&center=true&vCenter=true&width=1000&lines=Gustavo+Ribeiro;Backend+Engineer;Especialista+em+NestJS+e+Docker;Arquiteturas+Escaláveis+e+Alta+Disponibilidade)](https://git.io/typing-svg)
 
 <p align="center">
   <i>“A imaginação é mais importante que o conhecimento. O conhecimento é limitado, enquanto a imaginação abraça o mundo inteiro.”</i><br/>
