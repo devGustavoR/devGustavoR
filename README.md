@@ -75,6 +75,6 @@ Atuação direta na **modernização de sistemas críticos**, com ênfase em con
     <img width="32" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" alt="LinkedIn" />
   </a>
   <a href="mailto:devgustavor@gmail.com">
-    <img width="32" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail.svg" alt="Email" />
+    <img width="32" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Dark.svg" alt="Email" />
   </a>
 </div>
