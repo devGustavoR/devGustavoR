@@ -21,6 +21,14 @@ Atuação direta na **modernização de sistemas críticos**, com ênfase em con
 
 ---
 
+## 🎓 Formação Acadêmica
+
+- 🏛️ **Engenharia de Software** — UNIFACS, Salvador/BA *(2026 – 2031)*
+- 🤖 **Especialização Técnica em IA** — SENAI CIMATEC *(2025 – 2026)*
+- 💻 **Ensino Técnico em ADS** — SENAI CIMATEC *(2020 – 2022)*
+
+---
+
 ## 🛠 Stack Principal & Ecossistema
 
 ### 🧠 Backend & Linguagens
