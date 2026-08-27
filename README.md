@@ -50,8 +50,8 @@ Atuação direta na **modernização de sistemas críticos**, com ênfase em con
 ## 📊 Métricas de Engenharia
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=devgustavor&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devgustavor&theme=tokyonight&hide_border=true&layout=compact" />
+  <img width="48%" src="https://github-stats-extended.vercel.app/api?username=devgustavor&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" />
+  <img width="48%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=devgustavor&theme=tokyonight&hide_border=true&layout=compact" />
 </div>
 
 <div align="center">
